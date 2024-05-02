@@ -1,4 +1,4 @@
-package com.garcia.car;
+package com.mesia.car;
 
 import com.google.gson.Gson;
 import org.springframework.beans.factory.annotation.Autowired;

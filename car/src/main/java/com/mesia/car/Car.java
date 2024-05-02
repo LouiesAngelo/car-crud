@@ -1,4 +1,4 @@
-package com.garcia.car;
+package com.mesia.car;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;

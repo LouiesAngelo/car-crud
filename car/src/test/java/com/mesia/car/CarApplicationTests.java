@@ -1,4 +1,4 @@
-package com.garcia.car;
+package com.mesia.car;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

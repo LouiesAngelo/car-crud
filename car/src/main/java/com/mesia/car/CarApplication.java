@@ -1,4 +1,4 @@
-package com.garcia.car;
+package com.mesia.car;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
